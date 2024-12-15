@@ -3,12 +3,6 @@
 
 > Penelitian telah dilakukan untuk menyelesaikan isu pengendara motor yang tidak mengenakan helm, untuk mendeteksi apakah seorang pengendara sepeda motor memakai helm atau tidak. Salah satu sistem yang telah dikembangkan adalah Roboflow yang memanfaatkan kecerdasan buatan dan mengimplementasikan algoritma YOLOv8
 
-Anggota Kelompok:
-1.   Ferrari Ahmad A.				(15220247)  
-2. Reza Dwi Ananda	 	   (15220287)  
-3. Ridho Darmawan Z. 			(15220154)
-4. Teuku Vaickal R.I			(15220658)
-
 Dependensi yang akan kita gunakan:
 
 
