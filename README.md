@@ -1,9 +1,9 @@
-# Deteksi Objek menggunakan YOLOv8
+# Object Detection using YOLOv8
 
 
-> Penelitian telah dilakukan untuk menyelesaikan isu pengendara motor yang tidak mengenakan helm, untuk mendeteksi apakah seorang pengendara sepeda motor memakai helm atau tidak. Salah satu sistem yang telah dikembangkan adalah Roboflow yang memanfaatkan kecerdasan buatan dan mengimplementasikan algoritma YOLOv8
+> Research has been conducted to resolve the issue of motorcyclists not wearing helmets, to detect whether a motorcyclist is wearing a helmet or not. One system that has been developed is Roboflow which utilizes artificial intelligence and implements the YOLOv8 algorithm.
 
-Dependensi yang akan kita gunakan:
+Dependency we use:
 
 
 *   Ultralytics
@@ -13,7 +13,8 @@ Dependensi yang akan kita gunakan:
 
 
 
-Total Citra:
+
+Total Data:
 
 ```
 Total Images: 208
@@ -24,7 +25,7 @@ Total Test: 21
 ```
 
 
-Struktur File:
+File Structure:
 ```
 📦HelmYOLOv8
  ┣ 📂test
